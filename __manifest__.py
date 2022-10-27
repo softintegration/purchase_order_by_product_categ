@@ -16,5 +16,6 @@
  'depends': ['purchase'],
  'data': [
      'views/purchase_views.xml',
-    ]
+    ],
+ 'license': 'LGPL-3',
  }
